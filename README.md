@@ -1,1 +1,1 @@
-api-python-ghseet
+The script is developed to read data from GSheet to Python Dataframe using pandas
